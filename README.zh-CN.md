@@ -2,7 +2,7 @@
 
 [🇬🇧 English](README.md) | [🇨🇳 中文](README.zh-CN.md)
 
-一个轻量级的 AutoHotkey 脚本，通过快捷键一键切换 Windows 明暗模式。
+一个轻量级的 AutoHotkey 脚本，通过快捷键一键切换 Windows 深色/浅色模式。
 
 ---
 
